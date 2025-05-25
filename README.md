@@ -1,3 +1,19 @@
+archivos---------
+<br />
+en la carpeta investigacion Teorica puede encontrar los archivos de latex (.tex, .pdf)
+<br />
+en las carpetas Credit Card y Video Game Sales puede encontrar los archivos de su creacion(.ipynb)
+<br />
+huggingface------------------------
+<br />
+Video Game Sales
+<br />
+https://huggingface.co/spaces/GatoHery/Proyecto-AN-2025
+<br />
+Credit Card
+<br />
+https://huggingface.co/spaces/GatoHery/proyecto-an2-2025
+<br />
 Integrantes----------
 <br />
 DANNY RIGOBERTO ARGUETA BRAN
